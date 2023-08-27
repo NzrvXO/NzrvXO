@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NzrvXO
-- 👀 I’m interested in Programming, GameDev, 3D modeling, CAD, website development.
-- 🌱 I’m currently learning Python and SolidWorks
+- 👀 I’m interested in Programming, GameDev, 3D modeling, Databaase, Desktop App, Information System.
+- 🌱 I’m currently learning С#, MS SQL Server, Unity, UML, API.
 - 💞️ I’m looking to collaborate on Which will help me understand programming
 - 📫 How to reach me xops228@gmail.com
 
