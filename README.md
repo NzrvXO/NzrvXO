@@ -5,6 +5,7 @@
   <a href="https://github.com/NzrvXO?tab=repositories">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NzrvXO&theme=tokyonight&show_icons=true&rank_icon=github" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NzrvXO&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
+    ![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&hide_clan=true)
   </a>
 </p>
 
@@ -20,7 +21,6 @@
 
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics. In search of a mentor to help with training and job opportunities.
-![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&hide_clan=true)
 ## 🎮 Project
  <a href="https://nzrvxo.itch.io/restless-dream" target="_blank"><img src="https://static.itch.io/images/badge-color.svg" width="260" height="80"/></a>
 
