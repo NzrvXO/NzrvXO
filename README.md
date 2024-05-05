@@ -10,11 +10,10 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.vulkan.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Vulkan.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="40" height="40"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG" width="40" height="40"/></a>
+  <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 - 👀 I’m interested in Programming, GameDev, 3D modeling, Databaase, Desktop App, Information System.
