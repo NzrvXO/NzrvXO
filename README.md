@@ -19,7 +19,7 @@
 
 <h3 align="center">Codewars:</h3>
 
-![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)
+[![codewars](https://www.codewars.com/users/NzrvXO/badges/large)](https://www.codewars.com/users/NzrvXO)
 
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics. In search of a mentor to help with training and job opportunities.
