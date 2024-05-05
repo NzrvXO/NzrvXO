@@ -5,8 +5,8 @@
   <a href="https://github.com/NzrvXO?tab=repositories">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NzrvXO&theme=tokyonight&show_icons=true&rank_icon=github" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NzrvXO&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true" />
-    ![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&hide_clan=true)
   </a>
+![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&hide_clan=true)
 </p>
 
 <h3 align="center">Tools:</h3>
