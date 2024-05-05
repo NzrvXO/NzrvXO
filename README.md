@@ -16,9 +16,8 @@
   <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
 </p>
+
 ![Codewars](https://github.r2v.ch/codewars?user=NzrvXO&hide_clan=true)
-
-
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics. In search of a mentor to help with training and job opportunities.
 ## 🎮 Project
