@@ -24,7 +24,7 @@
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics. In search of a mentor to help with training and job opportunities.
 ## 🎮 Project
-<a href="https://nzrvxo.itch.io/restless-dream" target="_blank"><img src="https://static.itch.io/images/badge-color.svg" width="260" height="80"/></a>
+<a href="https://nzrvxo.itch.io/slender-lost-pages" target="_blank"><img src="https://static.itch.io/images/badge-color.svg" width="260" height="80"/></a>
 <!---
 NzrvXO/NzrvXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pre.
 You can click the Preview link to take a look at your changes.
