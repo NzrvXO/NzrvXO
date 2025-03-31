@@ -24,7 +24,7 @@
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics.
 ## 🎮 Project
-<a><iframe frameborder="0" src="https://itch.io/embed/3436971" width="552" height="167"></a><a href="https://nzrvxo.itch.io/night-warehouse">Night Warehouse by nzrvxo</a></iframe></a>
+<a href="https://nzrvxo.itch.io/night-warehouse">Night Warehouse by nzrvxo</a></iframe></a>
 <!---
 NzrvXO/NzrvXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pre.
 You can click the Preview link to take a look at your changes.
