@@ -24,7 +24,7 @@
 ## 🙋‍♂ About me
 An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics.
 ## 🎮 Project
-<a href="https://nzrvxo.itch.io/slender-lost-pages" target="_blank"><img src="https://static.itch.io/images/badge-color.svg" width="260" height="80"/></a>
+<iframe frameborder="0" src="https://itch.io/embed/3436971" width="552" height="167"><a href="https://nzrvxo.itch.io/night-warehouse">Night Warehouse by nzrvxo</a></iframe>
 <!---
 NzrvXO/NzrvXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pre.
 You can click the Preview link to take a look at your changes.
