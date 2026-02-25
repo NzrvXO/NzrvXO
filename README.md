@@ -22,9 +22,9 @@
 [![codewars](https://www.codewars.com/users/NzrvXO/badges/large)](https://www.codewars.com/users/NzrvXO)
 
 ## 🙋‍♂ About me
-An aspiring game developer on Unity and a student of Business Informatics. Proficient in UML, software development methodologies and have knowledge in systems analytics.
+Systems analyst, software, game developer and just a good person.
 ## 🎮 Project
-<a href="https://nzrvxo.itch.io/night-warehouse">Night Warehouse by nzrvxo</a>
+<a href="https://nzrvxo.itch.io">My Itch.io</a>
 <!---
 NzrvXO/NzrvXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pre.
 You can click the Preview link to take a look at your changes.
