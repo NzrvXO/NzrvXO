@@ -23,7 +23,7 @@
 
 ## 🙋‍♂ About me
 Systems analyst, software, game developer and just a good person.
-## 🎮 Project
+## 🎮 Projects
 <a href="https://nzrvxo.itch.io">My Itch.io</a>
 <!---
 NzrvXO/NzrvXO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub pre.
