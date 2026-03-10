@@ -8,7 +8,7 @@
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" width="40" height="40"/></a>
   <a href="https://https://www.blender.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
-  <a href="" target="_blank"><img src="https://commons.wikimedia.org/wiki/File:React-icon.svg" width="40" height="40"/></a>
+  <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
 </p>
 
