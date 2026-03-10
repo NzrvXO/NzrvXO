@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">Unity Game Developer & Programmer & System Analyst</h3><br>
+<h3 align="center">Unity Game Developer & Programmer & System Analyst</h3>
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="40" height="40"/></a>
