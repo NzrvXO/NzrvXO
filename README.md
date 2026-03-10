@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Unity Game Developer & Programmer & System Analyst</h3><br>
-
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" width="40" height="40"/></a>
@@ -10,7 +9,6 @@
   <a href="https://www.microsoft.com/ru-ru/sql-server/sql-server-2019" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
   <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-  
 </p>
 
 <h3 align="center">Codewars:</h3>
