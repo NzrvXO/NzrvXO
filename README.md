@@ -17,8 +17,6 @@
 
 [![codewars](https://www.codewars.com/users/NzrvXO/badges/large)](https://www.codewars.com/users/NzrvXO)
 
-## 🙋‍♂ About me
-Systems analyst, software, game developer and just a good person.
 ## 🎮 Projects
 <a href="https://nzrvxo.itch.io">My Itch.io</a>
 <!---
